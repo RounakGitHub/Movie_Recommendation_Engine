@@ -4,7 +4,7 @@ The application is deployed at Heroku
 URL: https://movie-recommend-eng.herokuapp.com/
 
 To host locally:
-1. Download the repository
+1. Download the repository and extract the zip file
 2. The pickle files can be downloaded from: (They are more than 25MB so could not be uploaded in the repository)
 
    a. similarity.pkl: https://drive.google.com/file/d/10uYhh1nQ0rHeyybuE-euyt8bYw-QhcQB/view?usp=sharing
