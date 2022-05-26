@@ -11,7 +11,7 @@ To host locally:
    
    b. movie_dict.pkl: https://drive.google.com/file/d/13Gk0vIrmMVEG-eO_09VgHuVQPPdD2iKl/view?usp=sharing
    
-3. Put these files in the same folder as of the python code file [WebApp.py]
+3. Put these files in the same folder as of WebApp.py [Web App Components]
 4. The application is made using streamlit. So to run it, install streamlit from terminal -->
           pip install streamlit
 5. finally run the application using the command :--> streamlit run WebApp.py     
