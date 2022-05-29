@@ -5,14 +5,11 @@ URL: https://movie-recommend-eng.herokuapp.com/
 
 To host locally:
 1. Download the repository and extract the zip file
-2. Install python if already not installed
-3. The pickle files can be downloaded from: (They are more than 25MB so could not be uploaded in the repository)
+2. Install python and pip if already not installed
+3. Run the jupyter notebook file to generate the pickle files
+4. The pickle files must be in the same folder as of WebApp.py 
+5. In order to run WebApp.py create a new project in virtual environment(venv) giving the path of the folder where all files are downloaded
 
-   a. similarity.pkl: https://drive.google.com/file/d/10uYhh1nQ0rHeyybuE-euyt8bYw-QhcQB/view?usp=sharing
-   
-   b. movie_dict.pkl: https://drive.google.com/file/d/13Gk0vIrmMVEG-eO_09VgHuVQPPdD2iKl/view?usp=sharing
-   
-3. Put these files in the same folder as of WebApp.py [Web App Components]
-4. The application is made using streamlit. So to run it, install streamlit from terminal -->
-          pip install streamlit
-5. finally run the application using the command :--> streamlit run WebApp.py     
+6. The application is made using streamlit. So to run it, install streamlit from terminal in pycharm -->
+                                    pip install streamlit
+7. finally run the application using the command in the pycharm terminal :--> streamlit run WebApp.py     
